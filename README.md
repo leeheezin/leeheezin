@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheezin&layout=compact)](https://github.com/leeheezin/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=heezin)](https://github.com/leeheezin/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=heezin)](https://velog.io/@heezin) 
 </div>
 </div>
  <br/>
