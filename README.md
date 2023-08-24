@@ -5,7 +5,7 @@
 <br/>
 
 
--🔭 I’m currently working on shoppingmall project <br/>
+<!-- -🔭 I’m currently working on shoppingmall project <br/> -->
 -🌱 I’m currently learning frontend <br/>
 -📫 How to reach me: gmlwls107@naver.com <br/>
 <!--
